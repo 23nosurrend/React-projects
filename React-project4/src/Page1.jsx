@@ -12,7 +12,7 @@ function Page1(){
         <>
            <div id="parent-page1">
             <Layout/>
-            <div id="page1">
+            <div className="page">
             <Card
             img={image}
             date="2019"
