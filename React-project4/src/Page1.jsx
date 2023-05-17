@@ -4,13 +4,15 @@ import Card2 from "./Card2.jsx"
 import image from "./assets/earth.jfif"
 import image2 from "./assets/avengers.jfif"
 import image3 from "./assets/earth.jfif"
+import "./page1.css"
 
 
 function Page1(){
     return (
         <>
+           <div id="parent-page1">
             <Layout/>
-            <div>
+            <div id="page1">
             <Card
             img={image}
             date="2019"
@@ -28,7 +30,7 @@ function Page1(){
             title="SHAKA"
             />
             </div>
-
+          </div>
         </>
     )
 }
