@@ -1,0 +1,29 @@
+#right{
+    background-color:#18182F;
+    height:1000px;
+    width:100px;
+    
+}
+#icon1{
+    color:red;
+    font-size: 30px;
+}
+.icon2{
+    font-size: 30px; 
+}
+#right-middle{
+    display:flex;
+    flex-direction: column;
+    gap:90px;
+    align-items: center;
+    justify-content: center;
+    
+}
+#white-icon{
+    color:white;
+}
+#lower-part{
+    display:flex;
+    flex-direction: column;
+    gap:50px;
+}

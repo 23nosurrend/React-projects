@@ -1,0 +1,31 @@
+#img1{
+    height:200px;
+    width:369px;
+}
+
+#words{
+    display:flex;
+    gap:10px;
+    color:white;
+}
+
+.text1{
+    color:white
+}
+.card1-words{
+    transform:translate(70px,-50px)
+}
+#card1-text{
+    transform:translate(70px,-50px)
+}
+
+.bookmark{
+    transform:translate(310px,-200px);
+    background-color:grey;
+    width:50px;
+    border-radius: 50%;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+
+}

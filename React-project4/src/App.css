@@ -1,0 +1,32 @@
+#app{
+  display:flex;
+  position:relative;
+  gap:10px;
+  background-color:#11111F;
+  
+}
+#upper-img{
+  display:flex;
+  gap:10px;
+}
+#Lower-img{
+  display:flex;
+  gap:2px;
+  flex-wrap: wrap;
+  
+}
+#Lower-img2{
+  display:flex;
+  gap:2px;
+  margin-top:20px;
+}
+
+.word{
+  font-size: 30px;
+  color:white;
+}
+
+#right-component{
+ 
+  
+}
